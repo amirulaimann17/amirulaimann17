@@ -58,4 +58,11 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/amirulaimann17/amirulaimann17/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 
